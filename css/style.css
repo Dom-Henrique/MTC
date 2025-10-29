@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(16, 16, 16);
+    color: white;
+    font-size: 2rem;
+    margin: 0 0 0 0;
+}
+
+header>h1, h2{
+    text-align: center
+}
+
+header>h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: white;
+    color: black;
+    padding: 2rem;
+}
+
+main {
+    margin: 2.6rem;
+}
+
+.python{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+
+.python>div>h2{
+    text-align: justify;
+}
+
+.html{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify
+}
+
+.html>div>h2{
+    text-align: justify;
+}
+
+.css{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify
+}
+
+.css>div>h2{
+    text-align: justify;
+}
+
+.sql{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify
+}
+
+.sql>div>h2{
+    text-align: justify;
+}
+
+figure>img{
+    height: 220px;
+}
+
+.inspirations>div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inspirations>div>img{
+    height: 140px;
+}
+
+#gpt{
+    height: 220px;
+    background-color: rgb(50, 160, 94);
+    padding: 10px;
+    border-radius: 20px;
+    vertical-align: middle;
+}
+
+#deepseek{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    vertical-align: middle;
+    height: 220px;
+}
+
+#fcp{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20px;
+    vertical-align: middle;
+    height: 220px;
+}
+
+.final a{
+    text-decoration: none;
+    color: white;
+}
+
+.final a:hover{
+    text-decoration: underline;
+    color: rgb(120, 199, 255);
+}
+
+.final{
+    text-align: center;
+    padding: 50px;
+}
