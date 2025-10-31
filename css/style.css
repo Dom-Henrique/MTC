@@ -20,7 +20,7 @@ header{
 }
 
 main {
-    margin: 2.6rem;
+    margin: 6rem;
 }
 
 .python{
@@ -113,4 +113,9 @@ figure>img{
 .final{
     text-align: center;
     padding: 50px;
+}
+
+p {
+    padding-right: 20rem;
+    font-size: 2.6rem;
 }
