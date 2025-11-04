@@ -1,32 +1,43 @@
 body {
-    background-color: rgb(16, 16, 16);
+    background-image: url(https://aventurasnahistoria.com.br/wp-content/uploads/hard_news/design_sem_nome_-_2023-11-14t155459.335.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(8px);
     color: white;
     font-size: 2rem;
     margin: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-figure>img{
-    width: 150%;
+figure>img {
+    width: 250%;
+    border-radius: 50%;
+    box-shadow: 0 0 20px black;
 }
 
 figure>figcaption {
     text-align: center;
 }
 
-main{
+main {
     display: flex;
     margin: 10rem;
     justify-content: space-between;
+    align-items: center;
 }
 
-div p{
-    padding-left: 16rem;
+div p {
+    padding-left: 36rem;
+    font-weight: bold;
 }
 
 div {
     text-align: justify;
 }
 
-div>h1{
-    padding-left: 16rem;
+div>h1, h2 {
+    padding-left: 36rem;
 }
