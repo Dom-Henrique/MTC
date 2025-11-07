@@ -119,10 +119,3 @@ p {
     padding-right: 20rem;
     font-size: 2.6rem;
 }
-
-.inspirations{
-    background-image: url(../assets/images/programming-languages.jpg);
-    backdrop-filter: blur(10px);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
